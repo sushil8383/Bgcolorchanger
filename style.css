@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#bgcen{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+}
+#bgbtn{
+    position: absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%,-65%);
+    background-color: red;
+    color: white;
+    padding: 0.5em;
+    border: none;
+    border-radius: 5em;
+    cursor: pointer;
+}
